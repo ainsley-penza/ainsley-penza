@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ainsley Penza</h1>
 <h3 align="center">A passionate full stack developer from Malta</h3>
 
-- 🔭 I’m currently working on [InfineraLabs](https://github.com/infineralabs)
-
 - 👨‍💻 All of my projects are available at [https://www.ainsleypenza.com](https://www.ainsleypenza.com)
 
 - 📫 How to reach me **contact@ainsleypenza.com**
